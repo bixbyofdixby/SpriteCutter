@@ -34,4 +34,4 @@ npm run build
 ```
 The compiled, ready-to-deploy static files will be placed in the `/dist` folder. 
 
-PS: Do whatever you want, just dont try to sell it somewhere (includes modded versions)
+PS: Do whatever you want, just dont try to sell it somewhere (includes modded versions)!
